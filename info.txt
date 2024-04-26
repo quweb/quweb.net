@@ -1,0 +1,4 @@
+<span id="a">info@quweb.net</span>:<span id="b">~</span><span id="c">$</span> uname<br/>
+quweb.net<br/>
+<span id="a">info@quweb.net</span>:<span id="b">~</span><span id="c">$</span> info<br/>
+Permanently Closed, "<span id="k">Code for Everyone</span>".
